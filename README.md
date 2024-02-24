@@ -15,12 +15,17 @@ Everyone likes it (especially the developers, I don’t know why) and is friendl
 ***
 ### Quick demo
 main
+
 ![main](https://github.com/changjaemun/Catch/assets/107340769/2b6b2463-a115-43a5-85bc-77565bb95fa6)
 
 playing
+
 ![step1](https://github.com/changjaemun/Catch/assets/107340769/27856f22-f9a0-4a26-abe0-7a66f66b9f96)
+
 ![step2](https://github.com/changjaemun/Catch/assets/107340769/47188c36-976c-4dd9-a9ed-9068412c2823)
+
 ![step3](https://github.com/changjaemun/Catch/assets/107340769/06d018d8-13c7-4187-b1c0-5556c09660f2)
+
 ![step4](https://github.com/changjaemun/Catch/assets/107340769/312e986a-ea7a-4f1d-ba1c-7fe57cf96869)
 
 ### Credit
