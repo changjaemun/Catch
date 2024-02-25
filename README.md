@@ -27,7 +27,7 @@ playing
 ![step3](https://github.com/changjaemun/Catch/assets/107340769/06d018d8-13c7-4187-b1c0-5556c09660f2)
 
 ![step4](https://github.com/changjaemun/Catch/assets/107340769/312e986a-ea7a-4f1d-ba1c-7fe57cf96869)
-
+***
 ### Credit
 Sounds
 - bgm : https://pixabay.com/ko/music/cute-creatures-150622/
